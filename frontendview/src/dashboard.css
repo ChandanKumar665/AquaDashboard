@@ -1,0 +1,36 @@
+.box{
+	height:300px;
+	width:300px;
+	font-family: Inter,sans-serif;
+	background-image: radial-gradient(farthest-corner at 40% 0,#00b0dd 0,#004d99 100%);
+},
+.scroll{
+	overflow:scroll;
+}
+.location{
+	height:100px;
+	width:300px;
+}
+.temp{
+	font-size: 50px;
+}
+.desc{
+	font-size:19px;
+}
+.weather{
+	margin-bottom: 1.5rem;
+}
+.fish{
+	height:150px;
+	width:150px;
+}
+.box2{
+	width:500px;
+}
+.design{
+	height:100%;
+	width:100%;
+}
+marquee{
+	height:240px;
+}
